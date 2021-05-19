@@ -1,2 +1,1 @@
-# dotnet-code-samples
-The .NET code samples
+# The .NET code samples
